@@ -3,6 +3,8 @@
 
 Always view the [most updated version](https://github.com/usfcs245/Project3 "Project 3") if possible.
 
+Make sure to look the the [DEADLINES](#requirements-and-deadline)
+
 ## Description
 Here is the [reputation rating data](../master/soc-sign-bitcoinotc_notime.csv "Bitcoin file") from Bitcoin OTC. Each line represents one user (source) giving another user (target) a rating at a given time. The rating can go from -10 (absolutely not trustworthy) to 10 (absolutely trustworthy). Bitcoin address is anonymous, so a user may not wish to make a transaction with another user with bad reputation. Your software is going to help users find trustworthy users!
 
