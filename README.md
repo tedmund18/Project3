@@ -37,3 +37,4 @@ Project 3: Part 2|
 **Output:** The target's average reputation printed to the terminal|
 **Algorithm:** (This is a suggestion. If you have a different idea, please run it by the instructor before implementing it.) <br><br> The longer path from source node to target node is, the less trust the source node puts on the ratings on the edges. Imagine your friend's friend's friend's friend's impression on a stranger. Surely it counts less than your friend's. The reputation of the target node is now computed as the sum of all the ratings on the path divided by the length of the path.<br><br> Your software will find all the paths from source node to target node, calculate the reputation of the target on each path, and return the average reputation.|
 
+Make sure to submit your files to GitHub BEFORE the deadline.
